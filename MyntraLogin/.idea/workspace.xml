@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c886b6e-9aa4-4c30-b8ca-2337973e82e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VT0N3QRPfo8cVwOuTjHchiao8I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.DynamicWebTbl">
+    <configuration name="DateCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Myntra.DateCalc" />
+      <module name="MyntraLogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Myntra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicWebTbl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Myntra.DynamicWebTbl" />
+      <module name="MyntraLogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Myntra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyntraLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Myntra.MyntraLogin" />
+      <module name="MyntraLogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Myntra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Myntra.TimeDate" />
+      <module name="MyntraLogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Myntra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DynamicWebTbl" />
+        <item itemvalue="Application.TimeDate" />
+        <item itemvalue="Application.DateCalc" />
+        <item itemvalue="Application.MyntraLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c886b6e-9aa4-4c30-b8ca-2337973e82e3" name="Default Changelist" comment="" />
+      <created>1577261734098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577261734098</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1577290013049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577290013049" />
+    <state x="406" y="54" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1577262203806">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="406" y="54" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1577262203806" />
+    <state x="413" y="112" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1577899399569">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1577899399569" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1578069700200">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578069700200" />
+    <state width="1323" height="194" key="GridCell.Tab.0.bottom" timestamp="1578070829625">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="194" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578070829625" />
+    <state width="1323" height="194" key="GridCell.Tab.0.center" timestamp="1578070829624">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="194" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578070829624" />
+    <state width="1323" height="194" key="GridCell.Tab.0.left" timestamp="1578070829624">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="194" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578070829624" />
+    <state width="1323" height="194" key="GridCell.Tab.0.right" timestamp="1578070829625">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="194" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578070829625" />
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1577290363140">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1577290363140" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1578069994790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578069994790" />
+    <state x="384" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1577283414914">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577283414914" />
+    <state x="339" y="164" width="672" height="677" key="run.anything.popup" timestamp="1577264518712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="164" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1577264518712" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1578066236805">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1578066236805" />
+  </component>
+</project>
