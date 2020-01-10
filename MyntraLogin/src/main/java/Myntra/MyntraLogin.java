@@ -11,7 +11,7 @@ import org.openqa.selenium.support.ui.Select;
 public class MyntraLogin
 {
     public static void main(String[] args) throws Exception {
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Sravan\\Selenium\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", ".\\MyntraLogin\\chromedriver.exe");
 
 // Initialize browser
         WebDriver driver=new ChromeDriver();
